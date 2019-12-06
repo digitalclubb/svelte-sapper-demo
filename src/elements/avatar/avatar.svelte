@@ -6,5 +6,5 @@
 </script>
 
 <figure>
-    <img src={avatar_url} alt="{login}'s GitHub avatar'" />
+    <img src={avatar_url} alt="{login}'s GitHub avatar'" loading="lazy" />
 </figure>
