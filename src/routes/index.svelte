@@ -28,6 +28,5 @@
 		{/each}
 	</ul>
 {:else}
-
 	<p>Loading...</p>
 {/if}
